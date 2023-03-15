@@ -5,4 +5,10 @@
 # 
 # 5.3
 
+a = 2.8
+b = 4.5
 
+
+
+result = Math.hypot(a,b)
+ p result
